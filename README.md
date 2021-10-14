@@ -1,2 +1,0 @@
-# repo
-mi primer repositorio
